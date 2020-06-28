@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "fr.adapp.alizesdeveloppement/ablandin"
+        id          = "fr.loceann"
         versionCode = "10"
         version     = "1.0.0.0" >
 
-	<name>vcard a blandin</name>
+	<name>vcard l'océ-ann</name>
 
 	<description></description>
 
@@ -33,7 +33,7 @@
 	<plugin name="cordova-plugin-statusbar" source="npm" />
 	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.4" source="git" />
    
-    <content src="https://adapp.alizesdeveloppement.fr/ablandin" />
+    <content src="https://loceann.fr/loceann" />
 
 	<!-- Whitelist policy  -->
 	<access origin="*" />
